@@ -2,9 +2,13 @@ def instantiate_new_array
 my_new_array = Array.new
 end
 
-array_with_two_elements = ["a", "x"]
+def array_with_two_elements 
+my_seond_array = ["a", "x"]
+end
 
-array_with_two_elements[0]
+def array_with_two_elements
+my_second_array
+end
 
 array_with_two_elements[2]
 
