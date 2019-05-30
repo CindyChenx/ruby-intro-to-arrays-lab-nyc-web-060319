@@ -3,7 +3,7 @@ my_new_array = Array.new
 end
 
 def array_with_two_elements 
-my_seond_array = ["a", "x"]
+my_two_array = ["a", "x"]
 end
 
 def array_with_two_elements
