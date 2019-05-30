@@ -10,7 +10,7 @@ def array_with_two_elements
 my_second_array
 end
 
-array_with_two_elements[2]
-
-array_with_two_elements[-1]
+def first_element[array]
+  array[0]
+end
 
