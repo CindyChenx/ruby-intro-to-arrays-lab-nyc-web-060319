@@ -1,4 +1,6 @@
+def instantiate_new_array
 my_new_array = Array.new
+end
 
 array_with_two_elements = ["a", "x"]
 
